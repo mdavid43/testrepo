@@ -1,0 +1,83 @@
+Libraries for Data Science
+-Python Libraries
+
+1)Scientific Computing Libraries
+-Pandas - Use for data structures and tools
+-NumPy - Use for arrays and matrices
+2) Visualization Libraries 
+-Matplotlib - plots, graphs
+-Seaborn - Plots (heat maps, time series)
+3) Machine Learning 
+-Scikit-learn (machine learning, regression)
+-Keras - (deep learning, neuron networks)
+-TensorFlow
+
+Scala-Libraries 
+-Vegas
+-BigDL
+
+R-Libraries 
+-GG plot2
+-Keras 
+-TensorFlow
+
+API 
+-communicates input/output from your program to other software program 
+Rest API
+-client - your system 
+-resource - interent service 
+-request and response 
+
+Data Sets - Powering Data Science 
+-structured collection of data 
+   -tabular data - data organized by rows and columns 
+-open data 
+   -UN, USA and Euro has open data online
+
+Sharing Enterprise Data - Data Asset eXchange
+-curated repository and 3rd party open data sets
+
+
+
+
+
+
+
+
+
+
+
+___________________________________________________________Course 2______________________________________________________________________________________________________________________
+
+Tools for Data Science
+Introduction to R and RStudio 
+-statistical programming language 
+-used for data processing and manipulation 
+-statistical, data analysis and machine learning 
+-R is used most by academics, healthcare and the government 
+-easy to use compared to other Data Science tools
+-Great tool for Visualization 
+
+What is RSTudio
+-Integrated Development Environment 
+-Increases productivity in running R programming language
+-Code Editor, Console, Workspace/History Tab, Plots, Files, Help, Packages
+-dplyr, caret (machine learning)
+
+Plotting within RStudio
+R is a very great tool ofr visualization - some popular and top data visualizations are:
+-ggplot - used for histograms, bar charts, scatterplots etc.
+-plotly - an R package can be used to create web-based data visualization 
+-lattice - data visualization tool that is used to imlement complex, multi-variable sets 
+-leaflet - popular for creating interactive plots
+
+
+
+
+
+
+
+
+
+
+
